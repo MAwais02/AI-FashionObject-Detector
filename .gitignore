@@ -5,4 +5,3 @@ __pycache__/
 *.pt
 *.zip
 .DS_Store
-fashion_mnist_model.h5
